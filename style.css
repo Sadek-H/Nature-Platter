@@ -1,0 +1,12 @@
+.title{
+  animation: animate 3s 1 steps(40) ;
+}
+@keyframes animate{
+    from{
+        width: 50%;
+    }
+    to{
+        width: 100%;
+    }
+}
+
